@@ -604,7 +604,8 @@ line-height: 12px;
 
 .revolutionizing {
   background-color: #1E3448;
-  margin-top: 70px;
+  /* margin-top: 70px; */
+  
   height: 299px;
   width: 100%;
   background-image: url(./images/Group\ 3\ \(1\).png), url(./images/Group\ 2\ \(1\).png);
@@ -647,7 +648,7 @@ footer .logo {
 footer .social-links {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  gap: 56px;
+  gap: 40px;
 }
 
 footer .socials ul {
