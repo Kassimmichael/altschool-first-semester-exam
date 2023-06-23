@@ -825,6 +825,18 @@ footer .service {
     /* padding-bottom: 20px; */
     /* margin-bottom: 20px; */
   }
+
+  .price .card {
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+
+  footer .social-links {
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -837,4 +849,22 @@ footer .service {
   .header .login {
     display: none;
   }
+
+  /* .header nav ul a img {
+    background-color: red;
+  } */
+
+  .transform .image img {
+    width: 100%;
+  }
+
+  
+
+  
+
+  footer .service p {
+    text-align: center;
+  }
+
+  
 }
