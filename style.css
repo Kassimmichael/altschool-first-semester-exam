@@ -18,6 +18,13 @@ header {
   align-items: center;
   justify-content: space-between;
   position: relative;
+  
+}
+
+.header {
+  background-image: url(./images/aurora.png);
+  background-position: center;
+  background-size: cover;
 }
 
 nav {
