@@ -17,10 +17,12 @@ This is an Altschool first semester assignment/exam
 | box-shadow        |  ![#F8F7F7]                                                      |
 | Dark blue        |  ![#1E3448]                                                      |
 
-
+## Figma link
+https://www.figma.com/file/Ug5dFpdPeyOy1NNAmZxfov/AltSchoolV2-Exam?node-id=1%3A451&mode=dev
 
 ## Live site url
 https://roaring-kelpie-902e01.netlify.app/
+
 ## Features
 
 - Live previews
