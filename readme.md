@@ -32,4 +32,4 @@ This project helped me in practicing my grid, flexbox and a bit of my responsive
 
 
 ##  Challenge
-- I struggled with the responsiveness, so some parts are responsive while some aren't. (You did a good job and I am very proud of your efforts, Please add the figma link to the README.md)
+- I struggled with the responsiveness, so some parts are responsive while some aren't.
